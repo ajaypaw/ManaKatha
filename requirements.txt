@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+pymongo
+python-multipart
+transformers
+sentencepiece
+torch
+scikit-learn 
